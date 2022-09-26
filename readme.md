@@ -64,8 +64,8 @@
 
 **Build (Framework comprised of metrics to guide multi-applicable 4 week builds)**
 
-[Build 01: Segment Schema]()
-[Build 02: Link Loop]()
+[Build 01: Segment Schema](https://medium.com/@daisydocuments/build-segment-schema-5211efcef42f)
+[Build 02: Link Loop](https://medium.com/@daisydocuments/build-link-loop-999313d979c1)
 
 **Play (Intense focus ~ Intense Rest ~ Always activated by music)**
 
