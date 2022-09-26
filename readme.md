@@ -34,33 +34,33 @@
 
 **Learn (Tools to optimize neuroplasticity via reads, videos, apps, etc.)**
 
-6/22 ~
+6/22 ~ [Understanding Your Brain's Logic & Function by Huberman Lab Podcast](https://open.spotify.com/episode/7jJNDcFSt2jyMhTKKIYvHp?si=bYPwgWn3TheyFCc14ZOmYw)
 
-6/29 ~
+6/29 ~ [NSDR Concept from Neuroplasticity Super Protocol](https://www.youtube.com/watch?v=pL02HRFk2vo) & [Reveri](https://www.reveri.com/)
 
-7/6 ~
+7/6 ~ [Intelligent Automation Newsletter](https://www.linkedin.com/pulse/intelligent-automation-newsletter-88-pascal-bornet/)
 
-7/13 ~
+7/13 ~ [Scope Building & Other Things](https://bootcamp.uxdesign.cc/scope-building-other-things-de1f7d9b3703)
 
-7/20 ~ 
+7/20 ~ [Techniques to Maximize Learning](https://www.inc.com/jessica-stillman/use-85-percent-rule-to-learn-anything-way-faster.html) (85% Rule & Rule of Thirds)
 
-7/27 ~
+7/27 ~ [Brain Training with Lumosity](https://www.lumosity.com/en/brain-games/)
 
-8/3 ~ 
+8/3 ~ [Three Ways Handwriting With a Pen Positively Affects Your Brain](https://www.forbes.com/sites/nancyolson/2016/05/15/three-ways-that-writing-with-a-pen-positively-affects-your-brain/?sh=1120cf475705)
 
-8/10 ~
+8/10 ~ [Fill~Empty~Use Framework for Sustainable Productivity & Creativity](https://thedankoe.com/the-3-part-daily-routine-for-maximum-productivity/)
 
-8/17 ~
+8/17 ~ [Optimize Your Time With Notion](https://www.notion.so/personal) Download on [mobile](https://www.notion.so/mobile), [desktop](https://www.notion.so/desktop) or [web clipper](https://www.notion.so/web-clipper)
 
-8/24 ~
+8/24 ~ [Dr. Mark Hyman x Dr. Amen Talk Brain Health](https://drhyman.com/blog/2022/03/02/podcast-ep503/) ||  [braunMD Brain Health Assessment](https://brainhealthassessment.com/) (Backed by Science, Curated by Dr. Amen)
 
-8/31 ~ 
+8/31 ~ [Build 02: Link Loop](https://medium.com/@daisydocuments/build-link-loop-999313d979c1)
 
-9/7 ~
+9/7 ~ [Sleep Toolkit: Tools for Optimizing Sleep & Sleep-Wake Cycles by Huberman Lab](https://open.spotify.com/episode/3TxjF2mZy9S9I9GL5eZ8sq?si=QWLzHijwQJW28Tui6aWPIQ)
 
-9/14 ~
+9/14 ~ [Writing as a Tool for ___](https://3rdritual.com/spotlight/writing/) by [3rd Ritual](https://3rdritual.com/)
 
-9/21 ~
+9/21 ~ [Optimize & Control Your Brain Chemistry to Improve Health & Performance](https://open.spotify.com/episode/55J9IkM4Um33Lqq6v2rETq?si=Oo2V3jrLQ5WsmfslGCPSyw) by Huberman Lab
 
 **Build (Framework comprised of metrics to guide multi-applicable 4 week builds)**
 
