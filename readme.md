@@ -2,7 +2,7 @@
 
 ## Updated monthly - A documentation piece that captures the links to reads, listens, etc. as a reference point.
 
-**Grow (Actionable methods to promote growth mindset)**
+### **Grow (Actionable methods to promote growth mindset)**
 
 6/21 ~ [Neuroplasticity and Change: Tools for Peak Performance](https://aspenbrain.institute/blog-posts/neuroplasticity-and-change-tools-for-peak-performance)
 
@@ -32,7 +32,7 @@
 
 9/20 ~ [LESS short-term dopamine, MORE long-term dopamine](https://www.instagram.com/p/Chj5HfmOfLH/?utm_source=ig_web_copy_link)
 
-**Learn (Tools to optimize neuroplasticity via reads, videos, apps, etc.)**
+### **Learn (Tools to optimize neuroplasticity via reads, videos, apps, etc.)**
 
 6/22 ~ [Understanding Your Brain's Logic & Function by Huberman Lab Podcast](https://open.spotify.com/episode/7jJNDcFSt2jyMhTKKIYvHp?si=bYPwgWn3TheyFCc14ZOmYw)
 
@@ -62,12 +62,14 @@
 
 9/21 ~ [Optimize & Control Your Brain Chemistry to Improve Health & Performance](https://open.spotify.com/episode/55J9IkM4Um33Lqq6v2rETq?si=Oo2V3jrLQ5WsmfslGCPSyw) by Huberman Lab
 
-**Build (Framework comprised of metrics to guide multi-applicable 4 week builds)**
+### **Build (Framework comprised of metrics to guide multi-applicable 4 week builds)**
 
 [Build 01: Segment Schema](https://medium.com/@daisydocuments/build-segment-schema-5211efcef42f)
+
+
 [Build 02: Link Loop](https://medium.com/@daisydocuments/build-link-loop-999313d979c1)
 
-**Play (Intense focus ~ Intense Rest ~ Always activated by music)**
+### **Play (Intense focus ~ Intense Rest ~ Always activated by music)**
 
 6/24 ~ [Have to Fun by Volta Cab](https://open.spotify.com/track/3Vvi3yGSc2gfh3thGhtcfX?si=1c1a7d6085d54e7a)
 
