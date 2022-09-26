@@ -69,28 +69,30 @@
 
 **Play (Intense focus ~ Intense Rest ~ Always activated by music)**
 
-6/24 ~
+6/24 ~ [Have to Fun by Volta Cab](https://open.spotify.com/track/3Vvi3yGSc2gfh3thGhtcfX?si=1c1a7d6085d54e7a)
 
-7/1 ~ 
+7/1 ~ [Summariata by SCSI-9 (Pablo Bolivar Mix)](https://open.spotify.com/track/3nzVXzML15TCNIKIfxoeTD?si=538e485a4d0d46da)
 
-7/8 ~
+7/8 ~ [Together by De La Swing](https://open.spotify.com/track/5VqRRjvQGHVIl8P7XrcfpA?si=af248add5d9e4173)
 
-7/15 ~
+7/15 ~ [Can You Feel It by Larry Heard](https://open.spotify.com/track/3xy8hSnwLShT5cc6WhKvRK?si=29a85ccf77124840)
 
-7/22 ~
+7/22 ~ [Stand Still by Flight Facilities (Mario Basanov Mix)](https://open.spotify.com/track/4fyIWb5yo1MhcFvB1gaCiT?si=ebd359a38827457c)
 
-7/29 ~
+7/29 ~ [Bossa #1 by Move D (Le Rubrique Mix)](https://open.spotify.com/track/4BBIhAwgBPSgU159OF2OzZ?si=bb4837db80fc4b2c)
 
-8/5 ~
+8/5 ~ [Soleil by Stef Davidse (Mattisou Mix)](https://open.spotify.com/track/7kYgNoLfy4O6cL2M1B1tnJ?si=f5f858bd43a24205)
 
-8/12 ~
+8/12 ~ [Late Nite Jam by Jesse Bru](https://open.spotify.com/track/2LSVwCaoMX72D1MNcQaxH8?si=edc95e468ce04a12)
 
-8/19 ~
+8/19 ~ [Reminisce Avenue by Rioleval](https://open.spotify.com/track/3SREiqxY1wbKjn6zgxT0l7?si=885c984769ab4244)
 
-8/26 ~
+8/26 ~ [Always by Riva Starr](https://open.spotify.com/track/78vOIQRCvV9P4TyKhE4Rjg?si=ebccc2598c5a4a89)
 
-9/2 ~
+9/2 ~ [Together Onetime by Dole & Kom](https://open.spotify.com/track/3rWSVB8ImDF3x1P22txCPe?si=f4a71e137979486d)
 
-9/9 ~
+9/9 ~ [Macadam Theory by Dauwd](https://open.spotify.com/track/4QfJ0zWoNdObnOgeacNkPL?si=99777f8bef6b40b2&nd=1)
 
-9/16 ~ 
+9/16 ~ [High Speed by Nicolas](https://open.spotify.com/track/3A5GCKhmJAaSIFsL89kj0M?si=0c37c64020024d0e)
+
+9/23 ~ [Feelings by VagueEightySix](https://open.spotify.com/track/6HzWWe8ardI2GfO7L2fzoo?si=9a9a844cfd6241a6)
