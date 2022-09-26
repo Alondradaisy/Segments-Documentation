@@ -2,7 +2,8 @@
 
 ## Updated monthly - A documentation piece that captures the links to reads, listens, etc. as a reference point.
 
-**Grow (Actionable methods to promote growth mindset**
+**Grow (Actionable methods to promote growth mindset)**
+6/21 -- [Neuroplasticity and Change: Tools for Peak Performance](https://aspenbrain.institute/blog-posts/neuroplasticity-and-change-tools-for-peak-performance)
 
 **Learn (Tools to optimize neuroplasticity via reads, videos, apps, etc.)**
 
